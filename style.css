@@ -8,7 +8,9 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
+	/*
 	background: #E5D7CC url(images/img01.png) repeat-x left top;
+	*/
 	font-family: 'Open Sans', sans-serif;
 	font-size: 10pt;
 	color: #3B3B3B;
